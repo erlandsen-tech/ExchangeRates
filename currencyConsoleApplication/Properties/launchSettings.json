@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Currency": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_CLIENT_SECRET": "ToT/gPa5H9Z?UK9oHwtifTTkjq3]Isz_",
+        "ASPNETCORE_HOSTINGSTARTUP__KEYVAULT__CONFIGURATIONVAULT": "https://currencyapplicationvault.vault.azure.net/",
+        "AZURE_TENANT_ID": "cf0d7bc0-950b-40c2-8944-7512af7ecb69",
+        "AZURE_APPLICATION_ID": "56bbf397-196d-4c08-a9db-c7d499e95531"
+      }
+    }
+  }
+}

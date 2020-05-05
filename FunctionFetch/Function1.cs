@@ -1,0 +1,60 @@
+using BLL;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Azure.WebJobs;
+using Microsoft.Azure.WebJobs.Extensions.Http;
+using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
+using System;
+using System.IO;
+using System.Threading.Tasks;
+
+namespace FunctionFetch
+{
+    public static class Function1
+    {
+        //[FunctionName("Function1")]
+        //public static async Task<IActionResult> Run(
+        //    [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
+        //    ILogger log)
+        //{
+        //    log.LogInformation("C# HTTP trigger function processed a request.");
+
+        //    string name = req.Query["name"];
+
+        //    string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
+        //    dynamic data = JsonConvert.DeserializeObject(requestBody);
+        //    name = name ?? data?.name;
+
+        //    string responseMessage = string.IsNullOrEmpty(name)
+        //        ? "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response."
+        //        : $"Hello, {name}. This HTTP triggered function executed successfully.";
+
+        //    ScheduledLogic scl = new ScheduledLogic();
+        //    if (await scl.GetData())
+        //    {
+        //        log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
+        //        log.LogInformation("The task was a success. Database updated.");
+        //    }
+        //    else
+        //    {
+        //        log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
+        //        log.LogInformation("The task was a failure. Database not updated.");
+        //    }
+
+        //    return new OkObjectResult(responseMessage);
+        //}
+
+        //private class ScheduledLogic
+        //{
+        //    private NetworkHandler handler = new NetworkHandler();
+        //    private DbLogic dbLogic = new DbLogic();
+
+        //    public async Task<bool> GetData()
+        //    {
+        //        var rates = await handler.GetRates();
+        //        return dbLogic.Insert(rates);
+        //    }
+        //}
+    }
+}
