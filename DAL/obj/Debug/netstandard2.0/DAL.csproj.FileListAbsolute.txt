@@ -1,0 +1,12 @@
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\bin\Debug\netstandard2.0\DAL.runtimeconfig.json
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\bin\Debug\netstandard2.0\DAL.runtimeconfig.dev.json
+C:\Users\johni\source\repos\currencyConsoleApplication\DAL\obj\Debug\netstandard2.0\DAL.genruntimeconfig.cache

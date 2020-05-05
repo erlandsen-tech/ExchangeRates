@@ -1,0 +1,12 @@
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\bin\Debug\netstandard2.0\Model.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache

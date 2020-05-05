@@ -1,0 +1,9 @@
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\bin\Debug\netcoreapp2.2\Model.deps.json
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\bin\Debug\netcoreapp2.2\Model.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\obj\Debug\netcoreapp2.2\Model.csprojAssemblyReference.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfoInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfo.cs
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\obj\Debug\netcoreapp2.2\Model.csproj.CoreCompileInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\obj\Debug\netcoreapp2.2\Model.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\Model\obj\Debug\netcoreapp2.2\Model.pdb

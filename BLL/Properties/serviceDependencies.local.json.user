@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-05-03T07:02:28.2886644Z"
+    },
+    "secrets2": {
+      "restored": true,
+      "restoreTime": "2020-05-04T05:40:39.5512861Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "currencyApplication"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "9d377b24-7c7c-409e-95d0-59a2d6744943"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\currencyConsoleApplication.exe
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.csprojAssemblyReference.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.AssemblyInfo.cs
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\currencyConsoleApplication.deps.json
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\currencyConsoleApplication.runtimeconfig.json
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\currencyConsoleApplication.runtimeconfig.dev.json
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\currencyConsoleApplication.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\currencyConsoleApplication.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.csproj.CopyComplete
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.dll
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.pdb
+C:\Users\johni\source\repos\currencyConsoleApplication\currencyConsoleApplication\obj\Debug\netcoreapp3.1\currencyConsoleApplication.genruntimeconfig.cache
