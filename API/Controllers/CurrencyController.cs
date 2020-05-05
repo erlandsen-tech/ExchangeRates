@@ -13,12 +13,20 @@ namespace API.Controllers
     [ApiController]
     public class CurrencyController : ControllerBase
     {
-        NetworkHandler handler;
+        private static readonly NetworkHandler handler = new NetworkHandler();
+        private static readonly Calculation calc = new Calculation();
         [HttpGet]
         public async Task<SuccessResponse> GetAllRates()
         {
-            handler = new NetworkHandler();
             return await handler.GetRates();
+        }
+        [HttpGet("{fromCurrency}/{toCurrency}/{amount}")]
+        public async Task<CalculatedAmount> Convert(string fromCurrency, string toCurrency, Decimal amount)
+        {
+            string result = await calc.FromToAmount(fromCurrency.ToUpper(), toCurrency.ToUpper(), amount, "latest");
+            var calcResult = new CalculatedAmount();
+            calcResult.Amount = amount; calcResult.From = fromCurrency; calcResult.To = toCurrency; calcResult.Result = result;
+            return calcResult;
         }
     }
 }

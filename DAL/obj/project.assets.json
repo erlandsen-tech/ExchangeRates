@@ -9101,20 +9101,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johni\\.nuget\\packages\\": {}
+    "C:\\Users\\johni\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\johni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\DAL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\johni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

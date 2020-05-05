@@ -12,3 +12,17 @@ C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netcoreapp3
 C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
 C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 C:\Users\johni\source\repos\currencyConsoleApplication\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\johni\source\repos\ExchangeRates\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\johni\source\repos\ExchangeRates\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

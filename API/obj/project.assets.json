@@ -9141,20 +9141,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johni\\.nuget\\packages\\": {}
+    "C:\\Users\\johni\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\API\\API.csproj",
+      "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\API\\API.csproj",
       "packagesPath": "C:\\Users\\johni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\API\\obj\\",
+      "outputPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\johni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9166,11 +9171,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\BLL\\BLL.csproj"
+            "C:\\Users\\johni\\source\\repos\\ExchangeRates\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj"
+            "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj"
             }
           }
         }

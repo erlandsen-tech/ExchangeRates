@@ -15,7 +15,7 @@ namespace currencyConsoleApplication
             {
                 new Option<string>(
                     "--from",
-                    getDefaultValue: () => "NOK",
+                    getDefaultValue: () => "NK",
                     description: "From currency. Should be of valid currency symbol. Check --symbols for list."),
                 new Option<string>(
                     "--to",

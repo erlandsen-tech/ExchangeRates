@@ -23,14 +23,19 @@ namespace BLL
 
         public NetworkHandler()
         {
-            keyVaultName = Environment.GetEnvironmentVariable("ASPNETCORE_HOSTINGSTARTUP__KEYVAULT__CONFIGURATIONVAULT");
-            var client = new SecretClient(new Uri(keyVaultName), new DefaultAzureCredential());
-            var secret =  client.GetSecret("fixerioapi");
-            API_KEY = secret.Value.Value; 
+            try
+            {
+                keyVaultName = Environment.GetEnvironmentVariable("ASPNETCORE_HOSTINGSTARTUP__KEYVAULT__CONFIGURATIONVAULT");
+                var client = new SecretClient(new Uri(keyVaultName), new DefaultAzureCredential());
+                var secret = client.GetSecret("fixerioapi");
+                API_KEY = secret.Value.Value;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Unable to get secret from keyvault. {ex.Message}");
+            }
         }
-
         private const string baseURI = "http://data.fixer.io/api/";
-
         public async Task<SuccessResponse> GetRates()
         {
             string uri = CreateRequest();

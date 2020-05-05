@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "api/currency",
       "environmentVariables": {
         "AZURE_CLIENT_SECRET": "ToT/gPa5H9Z?UK9oHwtifTTkjq3]Isz_",
         "ASPNETCORE_ENVIRONMENT": "Development",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQePNqdyCyAI1Kyotr5X9xQF7MajUOw6T9ONdqkcUTdar9U3KqgoaSeoQWrdtkuYNWSU8gxT4wP25aYui6iI2A==",
+  "dgSpecHash": "0SrZ/hm5VRV7/0vxF2m28LtASRiZa3gz7AeX2xom8ZarrkOErHbvtmqZ5b/UFAdrkjsceNrbG6AnSyAQFpyS7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johni\\.nuget\\packages\\azure.core\\1.0.2\\azure.core.1.0.2.nupkg.sha512",
     "C:\\Users\\johni\\.nuget\\packages\\azure.extensions.configuration.secrets\\1.0.0-preview.1\\azure.extensions.configuration.secrets.1.0.0-preview.1.nupkg.sha512",

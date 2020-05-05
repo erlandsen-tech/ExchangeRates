@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4d1G6LxL9qwtydLLNJl7vITST2jUY/tfNOg3xqEY1i9jL47mm5edSnQ5K9NaekdeUA686Jt2zK45Z33h3OF0mQ==",
+  "dgSpecHash": "+YzAVmtxFtlR1O/HgDwzYBsucUs8gOt1ZDWk73rLGGaN8fQeo60rglaLUqrt7+B4aWlu5xHom9b9YJ/i0vBEcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj",
+  "projectFilePath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

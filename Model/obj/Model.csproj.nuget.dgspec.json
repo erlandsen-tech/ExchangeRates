@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj": {}
+    "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj": {
+    "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\johni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\Model\\obj\\",
+        "outputPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\johni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

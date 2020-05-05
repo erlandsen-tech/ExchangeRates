@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNyaJR1JT9bBFqjhX/uYQtk50xI9pEK8bLwo+4x0a4vAeDnW95QFGggw9dRVqtNQE3B8Nsww9sgVy0dzP/4itQ==",
+  "dgSpecHash": "Zceg6kgje0AC8TM6QDHKDFHllGMhcXIyubTmZrXw31mDVw1OCg0Ga4HveDu9bO4oSx/IDKtzqD22M2esoVrGoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\CurrencyTests\\CurrencyTests.csproj",
+  "projectFilePath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\CurrencyTests\\CurrencyTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johni\\.nuget\\packages\\azure.core\\1.0.2\\azure.core.1.0.2.nupkg.sha512",
     "C:\\Users\\johni\\.nuget\\packages\\azure.extensions.configuration.secrets\\1.0.0-preview.1\\azure.extensions.configuration.secrets.1.0.0-preview.1.nupkg.sha512",

@@ -10266,20 +10266,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johni\\.nuget\\packages\\": {}
+    "C:\\Users\\johni\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\CurrencyTests\\CurrencyTests.csproj",
+      "projectUniqueName": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\CurrencyTests\\CurrencyTests.csproj",
       "projectName": "CurrencyTests",
-      "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\CurrencyTests\\CurrencyTests.csproj",
+      "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\CurrencyTests\\CurrencyTests.csproj",
       "packagesPath": "C:\\Users\\johni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\CurrencyTests\\obj\\",
+      "outputPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\CurrencyTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\johni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -10291,8 +10296,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\currencyConsoleApplication\\Currency.csproj": {
-              "projectPath": "C:\\Users\\johni\\source\\repos\\currencyConsoleApplication\\currencyConsoleApplication\\Currency.csproj"
+            "C:\\Users\\johni\\source\\repos\\ExchangeRates\\currencyConsoleApplication\\Currency.csproj": {
+              "projectPath": "C:\\Users\\johni\\source\\repos\\ExchangeRates\\currencyConsoleApplication\\Currency.csproj"
             }
           }
         }

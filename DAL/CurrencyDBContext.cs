@@ -19,10 +19,17 @@ namespace DAL
         public CurrencyDBContext()
         {
 
+            try
+            {
             keyVaultName = Environment.GetEnvironmentVariable("ASPNETCORE_HOSTINGSTARTUP__KEYVAULT__CONFIGURATIONVAULT");
             var client = new SecretClient(new Uri(keyVaultName), new DefaultAzureCredential());
             var secret =  client.GetSecret("ConnectionStrings--scheduledFetchDb");
             Connection_string = secret.Value.Value;
+            }
+            catch(Exception ex)
+            {
+                throw new Exception($"Unable to get secret from keyvault. {ex.Message}");
+            }
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
